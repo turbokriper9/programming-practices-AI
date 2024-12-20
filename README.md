@@ -2,7 +2,7 @@
 
 
 - **Денис Ануфриев**: [GitHub](https://github.com/turbokriper9)
-- Электронная почта: Denis.Anufriev@aat.urfu.ru
+- Электронная почта: Denis.Anufriev@at.urfu.ru
 
 "Практика_0_3_0_ipynb".ipynb - в файле представлена 3 практика
 "Практика_0_4_0_ipynb".ipynb - в файле представлена 4 практика
